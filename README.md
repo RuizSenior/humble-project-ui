@@ -77,8 +77,8 @@ Para configurar y ejecutar este proyecto localmente, sigue estos pasos:
 
 ### Backend: Python con FastAPI
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0%2B-green?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0%2B-green?style=for-the-badge&logo=fastapi)
 
 El backend del Proyecto Humble está desarrollado en Python utilizando el framework FastAPI. Esta elección nos permite construir APIs rápidas y de alto rendimiento con una sintaxis limpia y sencilla.
 
@@ -87,7 +87,7 @@ El backend del Proyecto Humble está desarrollado en Python utilizando el framew
 
 ### Frontend: Angular
 
-![Angular](https://img.shields.io/badge/Angular-12.0.0%2B-red?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-17.0.0%2B-red?style=for-the-badge&logo=angular)
 
 Para el frontend, utilizamos Angular, un framework de desarrollo web conocido por su capacidad de construir aplicaciones de una sola página (SPA) con una experiencia de usuario fluida y responsiva.
 
